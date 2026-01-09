@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nurikgg77
+# 👋 Hi, I'm Nurik
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=26&pause=1000&color=00FFAB&background=00000000&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I%27m+Nurikgg77!;I+build+beautiful+and+scalable+web+apps+%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG" />
 
