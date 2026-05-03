@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Как со мной связаться:
-*   **Telegram:** [@nurikgg77]
+*   **Telegram:** [@Nurikgg77]
 *   **Email:** [rejepownurik4@gmail.com]
 *   **LinkedIn:** [ссылка_на_профиль]
 
