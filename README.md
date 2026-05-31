@@ -77,7 +77,7 @@
 ---
 
 <div align="center">
-  <!-- Анимированная змейка, которая ползает по твоим коммитам -->
   <h3>🐍 Мой вклад в код (Contribution Snake)</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurikgg77&theme=radical" alt="Summary Cards" width="100%"/>
+  <!-- Ссылка на анимированную змейку, которая будет генерироваться экшеном -->
+  <img src="https://raw.githubusercontent.com/Nurikgg77/Nurikgg77/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
