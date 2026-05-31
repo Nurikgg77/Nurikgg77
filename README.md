@@ -41,17 +41,17 @@
 ### 📊 Моя Живая Статистика (GitHub Stats)
 
 <div align="center">
-  <!-- Анимированная карточка статистики -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurikgg77&show_icons=true&theme=radical&rank_icon=github&align=center" alt="GitHub Stats" height="180" />
+  <!-- Карточка общей статистики профиля -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurikgg77&theme=radical" alt="GitHub Stats" height="180" />
   
-  <!-- Карточка используемых языков -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurikgg77&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <!-- Карточка самых используемых языков -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurikgg77&theme=radical" alt="Top Languages" height="180" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Анимация активности (коммиты, код) -->
+  <!-- Твой рабочий стрик коммитов (оставляем его, раз он пашет) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurikgg77&theme=radical" alt="GitHub Streak" />
 </div>
 
