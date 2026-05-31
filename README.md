@@ -52,7 +52,7 @@
 
 <div align="center">
   <!-- Анимация активности (коммиты, код) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurikgg77" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurikgg77&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
