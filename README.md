@@ -42,17 +42,17 @@
 
 <div align="center">
   <!-- Анимированная карточка статистики -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК_GITHUB&show_icons=true&theme=radical&rank_icon=github&align=center" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurikgg77&show_icons=true&theme=radical&rank_icon=github&align=center" alt="GitHub Stats" height="180" />
   
   <!-- Карточка используемых языков -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК_GITHUB&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurikgg77&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- Анимация активности (коммиты, код) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК_GITHUB&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurikgg77" alt="GitHub Streak" />
 </div>
 
 ---
@@ -63,13 +63,13 @@
   <a href="https://t.me/Nurikgg77" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:rejepownurik4@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrlJBxpvWhhlgdvHhZnksQTBxbKHqTFDfpvZWTGrhdCdqJXtrJncnmdzsvwXdllVwcVVGq">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://instagram.com/nurik_prgrm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@711nurik" target="_blank">
+  <a href="https://www.tiktok.com/@ggnurik77" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
@@ -79,5 +79,5 @@
 <div align="center">
   <!-- Анимированная змейка, которая ползает по твоим коммитам -->
   <h3>🐍 Мой вклад в код (Contribution Snake)</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ТВОЙ_НИК_GITHUB&theme=radical" alt="Summary Cards" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurikgg77&theme=radical" alt="Summary Cards" width="100%"/>
 </div>
