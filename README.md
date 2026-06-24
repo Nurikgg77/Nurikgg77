@@ -16,6 +16,7 @@
 <details open>
 <summary><b>💫 Click to interact with my 3D profile card</b></summary>
 
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -170,6 +171,7 @@ card.style.transform = 'rotateX(0) rotateY(0)';
 <details open>
 <summary><b>✍️ Создавай и управляй своими статьями</b></summary>
 
+```html
 <!DOCTYPE html>
 <html>
 <head>
